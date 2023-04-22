@@ -1,12 +1,13 @@
 # Jolou Pay 💰
 A Task Performance in Mobile Systems and Technologies that aims to design the layout for an electronic money app.
 
+## Screen Shot 📷
 <p float="center">
-	<img src = "screenshot/splash_screen.png" width="180">
-	<img src = "screenshot/login_screen.png" width="180">
-	<img src = "screenshot/error_login.png" width="180">
-	<img src = "screenshot/dashboard1.png" width="180">
-	<img src = "screenshot/dashboard2.png" width="180">
+	<img src = "screenshot/splash_screen.png" width="220">
+	<img src = "screenshot/login_screen.png" width="220">
+	<img src = "screenshot/error_login.png" width="220">
+	<img src = "screenshot/dashboard1.png" width="220">
+	<img src = "screenshot/dashboard2.png" width="220">
 </p>
 
 ## Contribution 🔥
