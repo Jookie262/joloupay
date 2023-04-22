@@ -2,6 +2,7 @@ package com.example.emoney;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -29,7 +30,8 @@ public class LoginScreen extends AppCompatActivity {
                 String get_password = password_layout.getEditText().getText().toString();
 
                 if(validateInput(get_username, get_password)){
-
+                    startActivity(new Intent(LoginScreen.this, DashboardActivity.class));
+                    finish();
                 }
             }
         });
